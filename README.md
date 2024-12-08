@@ -1,4 +1,4 @@
-Employee Directory Backend
+#Employee Directory Backend
 Overview
 The Employee Directory Backend is a RESTful API designed to manage employee data. It provides endpoints to create, retrieve, update, and delete employee records, allowing organizations to maintain an up-to-date directory of their workforce. Built using Java, Spring Boot, and JPA/Hibernate, this backend ensures scalability, flexibility, and security for managing employee-related information.
 
